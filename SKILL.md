@@ -1,3 +1,9 @@
+﻿---
+name: "competition-theme-occam-distillation"
+version: 1.0.0
+author: wanglin1111111
+description: "competition-theme-occam-distillation skill"
+---
 # 竞赛作品主题奥卡姆蒸馏法
 
 > 给定 N 个参赛项目 → 奥卡姆剃刀削去冗余 → 提炼 ≤5 个核心主题 → 输出分点总结 + 行动指南
@@ -142,3 +148,4 @@
 - 竞品分析（多产品横向对比）
 - 技术趋势扫描（从散点中找主线）
 - 团队内部灵感板（参赛作品 → 自身系统改造清单）
+
