@@ -1,5 +1,5 @@
 ﻿---
-name: "competition-theme-occam-distillation"
+name: competition-theme-occam-distillation
 version: 1.0.0
 author: wanglin1111111
 description: "competition-theme-occam-distillation skill"
